@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Oswald:wght@500&family=Ubuntu&display=swap');
+
+.card{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Ubuntu', sans-serif;  
+
+    border: 2px solid #9DB2BF;
+    border-radius: 10px;
+    max-width: 300px;
+    color: #9DB2BF;
+    padding: 12px;
+    padding-left: 20px;
+
+    background-color: #27374D;
+
+    box-shadow: 5px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
+
+    overflow:hidden;
+    
+}
+
+.card-mediabuttons{
+    margin-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-heading{
+    margin-bottom: 0;
+}
+
+.card-description{
+    margin: 0;
+}
+
+
+.card-interests{
+    margin-top: 0;
+}
+
+.card-interests-heading{
+    margin-bottom: 0;
+}
+
+
+

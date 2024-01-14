@@ -1,0 +1,30 @@
+.media-button{
+    cursor: pointer;
+    background-color: #9DB2BF;
+    color: #27374D;
+    border: 2px solid #27374D;
+
+    min-width: 75px;
+    height: 25px;
+    border-radius: 25px;
+    margin-right: 12px;
+    padding-top: 6px;
+
+    text-align: center;
+    transition: background-color 0.3s;
+
+    text-shadow: 0px 1px 0px black;
+    
+}
+
+.media-button a{
+    all: unset;
+    font-size: 16px;
+}
+
+.media-button:hover {
+    background-color: #27374D;
+    border: 2px solid #9DB2BF;
+    color: #9DB2BF;
+}
+
